@@ -1,0 +1,68 @@
+﻿@model PatientManager.Models.Examination
+
+@{
+    ViewData["Title"] = "Examination Details";
+}
+
+<h1>Examination Details</h1>
+
+<hr />
+<dl class="row">
+    <dt class="col-sm-2">Patient</dt>
+    <dd class="col-sm-10">@Model.Patient.LastName, @Model.Patient.Name</dd>
+
+    <dt class="col-sm-2">Date</dt>
+    <dd class="col-sm-10">@Model.Date.ToShortDateString()</dd>
+
+    <dt class="col-sm-2">Type</dt>
+    <dd class="col-sm-10">@Model.Type.Name</dd>
+</dl>
+
+<hr />
+<h4>Attachments</h4>
+
+@if (Model.Attachments.Any())
+{
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>File Name</th>
+                <th>Uploaded At</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var att in Model.Attachments)
+            {
+                <tr>
+                    <td>@att.FileName</td>
+                    <td>@att.UploadedAt?.ToLocalTime().ToString("g")</td>
+                    <td>
+                        <a asp-controller="Attachments" asp-action="Download" asp-route-id="@att.Id" class="btn btn-sm btn-outline-secondary">Download</a>
+
+                        <form asp-controller="Attachments" asp-action="Delete" asp-route-id="@att.Id" method="post" class="d-inline">
+                            <button type="submit" class="btn btn-sm btn-outline-danger ms-2" onclick="return confirm('Delete this file?')">Delete</button>
+                        </form>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p><em>No attachments.</em></p>
+}
+
+<form asp-controller="Attachments" asp-action="Upload" method="post" enctype="multipart/form-data" class="mt-3">
+    <input type="hidden" name="examinationId" value="@Model.Id" />
+    <div class="input-group">
+        <input type="file" name="file" class="form-control" required />
+        <button type="submit" class="btn btn-success">Upload</button>
+    </div>
+</form>
+
+
+
+<a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-warning">Edit</a>
+<a asp-action="Index" class="btn btn-secondary">Back to List</a>

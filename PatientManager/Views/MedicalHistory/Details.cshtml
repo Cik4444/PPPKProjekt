@@ -1,0 +1,21 @@
+﻿@model PatientManager.Models.Medicalhistory
+
+@{
+    ViewData["Title"] = "Medical History Details";
+}
+
+<h1>Medical History</h1>
+<hr />
+<dl class="row">
+    <dt class="col-sm-3">Disease</dt>
+    <dd class="col-sm-9">@Model.Disease.Name</dd>
+
+    <dt class="col-sm-3">Start</dt>
+    <dd class="col-sm-9">@Model.DiseaseStart.ToString("dd.MM.yyyy")</dd>
+
+    <dt class="col-sm-3">End</dt>
+    <dd class="col-sm-9">@Model.DiseaseEnd?.ToString("dd.MM.yyyy") ?? "-" </dd>
+</dl>
+
+<a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-warning">Edit</a>
+<a asp-controller="Patients" asp-action="Details" asp-route-id="@Model.PatientId" class="btn btn-secondary">Back</a>

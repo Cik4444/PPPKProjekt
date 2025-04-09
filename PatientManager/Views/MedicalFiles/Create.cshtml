@@ -1,0 +1,30 @@
+﻿@model PatientManager.Models.Medicalfile
+
+@{
+    ViewData["Title"] = "Create Medical File";
+}
+
+<h1>Create Medical File</h1>
+
+<form asp-action="Create">
+    <div class="mb-3">
+        <label asp-for="ExaminationId" class="form-label">Examination</label>
+        <select asp-for="ExaminationId" class="form-control" asp-items="ViewBag.Examinations">
+            <option value="">-- Select Examination --</option>
+        </select>
+        <span asp-validation-for="ExaminationId" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="FilePath" class="form-label"></label>
+        <input asp-for="FilePath" class="form-control" />
+        <span asp-validation-for="FilePath" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-success">Create</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

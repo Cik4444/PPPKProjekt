@@ -1,0 +1,18 @@
+﻿@model PatientManager.Models.Prescription
+
+@{
+    ViewData["Title"] = "Prescription Details";
+}
+
+<h1>Prescription</h1>
+<hr />
+<dl class="row">
+    <dt class="col-sm-3">Medication</dt>
+    <dd class="col-sm-9">@Model.Medication.Name</dd>
+
+    <dt class="col-sm-3">Date</dt>
+    <dd class="col-sm-9">@Model.PrescriptionDate.ToString("dd.MM.yyyy")</dd>
+</dl>
+
+<a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-warning">Edit</a>
+<a asp-action="Details" asp-controller="Patients" asp-route-id="@Model.PatientId" class="btn btn-secondary">Back</a>

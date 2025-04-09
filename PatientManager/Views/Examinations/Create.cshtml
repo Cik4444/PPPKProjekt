@@ -1,0 +1,31 @@
+﻿@model PatientManager.ViewModels.ExaminationDto
+
+@{
+    ViewData["Title"] = "Create Examination";
+}
+
+<h1>Create Examination</h1>
+
+<form asp-action="Create">
+    <div class="mb-3">
+        <label asp-for="PatientId" class="form-label">Patient</label>
+        <select asp-for="PatientId" class="form-select" asp-items="ViewBag.Patients"></select>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Date" class="form-label">Date</label>
+        <input asp-for="Date" class="form-control" type="date" />
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="TypeId" class="form-label">Examination Type</label>
+        <select asp-for="TypeId" class="form-select" asp-items="ViewBag.Types"></select>
+    </div>
+
+    <button type="submit" class="btn btn-success">Create</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

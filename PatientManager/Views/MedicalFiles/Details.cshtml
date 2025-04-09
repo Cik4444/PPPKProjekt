@@ -1,0 +1,44 @@
+﻿@model PatientManager.Models.Medicalfile
+@{
+    ViewData["Title"] = "Medical File Details";
+    var medicalHistory = ViewBag.MedicalHistory as List<PatientManager.Models.Medicalhistory>;
+}
+
+<h1>Medical File</h1>
+
+<p><strong>File path:</strong> @Model.FilePath</p>
+<p><strong>Patient:</strong> @Model.Examination.Patient.Name @Model.Examination.Patient.LastName</p>
+
+<hr />
+<h3>Medical History</h3>
+
+@if (medicalHistory != null && medicalHistory.Any())
+{
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>Disease</th>
+                <th>Start</th>
+                <th>End</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in medicalHistory)
+            {
+                <tr>
+                    <td>@item.Disease.Name</td>
+                    <td>@item.DiseaseStart.ToString("dd.MM.yyyy")</td>
+                    <td>@(item.DiseaseEnd?.ToString("dd.MM.yyyy") ?? "-")</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <a asp-action="ExportToCsv" asp-route-id="@Model.Id" class="btn btn-outline-success mt-3">
+        Export to CSV
+    </a>
+}
+else
+{
+    <p><em>No medical history records found.</em></p>
+}

@@ -1,0 +1,37 @@
+﻿@model PatientManager.ViewModels.MedicalHistoryDto
+
+@{
+    ViewData["Title"] = "Edit Medical History";
+}
+
+<h1>Edit Medical History</h1>
+
+<form asp-action="Edit">
+    <input type="hidden" asp-for="Id" />
+    <input type="hidden" asp-for="PatientId" />
+
+    <div class="mb-3">
+        <label asp-for="DiseaseId" class="form-label">Disease</label>
+        <select asp-for="DiseaseId" class="form-control" asp-items="ViewBag.Diseases"></select>
+        <span asp-validation-for="DiseaseId" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="DiseaseStart" class="form-label">Start Date</label>
+        <input asp-for="DiseaseStart" class="form-control" type="date" />
+        <span asp-validation-for="DiseaseStart" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="DiseaseEnd" class="form-label">End Date</label>
+        <input asp-for="DiseaseEnd" class="form-control" type="date" />
+        <span asp-validation-for="DiseaseEnd" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Save</button>
+    <a asp-controller="Patients" asp-action="Details" asp-route-id="@Model.PatientId" class="btn btn-secondary">Cancel</a>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

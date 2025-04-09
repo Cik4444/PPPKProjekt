@@ -1,0 +1,30 @@
+﻿@model PatientManager.ViewModels.PrescriptionDto
+
+@{
+    ViewData["Title"] = "Create Prescription";
+}
+
+<h1>Create Prescription</h1>
+
+<form asp-action="Create">
+    <input type="hidden" asp-for="PatientId" value="@ViewBag.PatientId" />
+
+    <div class="mb-3">
+        <label asp-for="MedicationId" class="form-label"></label>
+        <select asp-for="MedicationId" class="form-control" asp-items="ViewBag.Medications"></select>
+        <span asp-validation-for="MedicationId" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="PrescriptionDate" class="form-label"></label>
+        <input asp-for="PrescriptionDate" class="form-control" type="date" />
+        <span asp-validation-for="PrescriptionDate" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-success">Create</button>
+    <a asp-action="Index" asp-controller="Patients" class="btn btn-secondary">Cancel</a>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

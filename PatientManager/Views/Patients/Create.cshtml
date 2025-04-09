@@ -1,0 +1,45 @@
+﻿@model PatientManager.Models.Patient
+@{
+    ViewData["Title"] = "Create Patient";
+}
+
+<h1>Create Patient</h1>
+
+@using (Html.BeginForm())
+{
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+    <form asp-action="Create">
+        <div class="form-group">
+            <label asp-for="Name"></label>
+            <input asp-for="Name" class="form-control" />
+            <span asp-validation-for="Name" class="text-danger" />
+        </div>
+        <div class="form-group">
+            <label asp-for="LastName"></label>
+            <input asp-for="LastName" class="form-control" />
+            <span asp-validation-for="LastName" class="text-danger" />
+        </div>
+        <div class="form-group">
+            <label asp-for="Oib"></label>
+            <input asp-for="Oib" class="form-control" />
+            <span asp-validation-for="Oib" class="text-danger" />
+        </div>
+        <div class="form-group">
+            <label asp-for="BirthDate"></label>
+            <input asp-for="BirthDate" class="form-control" type="date" />
+            <span asp-validation-for="BirthDate" class="text-danger" />
+        </div>
+        <div class="form-group">
+            <label asp-for="Spol"></label>
+            <input asp-for="Spol" class="form-control" />
+            <span asp-validation-for="Spol" class="text-danger" />
+        </div>
+        <button type="submit" class="btn btn-primary">Create</button>
+        <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+    </form>
+
+}
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

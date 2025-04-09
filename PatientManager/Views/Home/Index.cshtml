@@ -1,0 +1,23 @@
+﻿@{
+    ViewData["Title"] = "Welcome";
+}
+
+<div class="text-center mt-5">
+    <h1 class="display-4">👨‍⚕️ Patient Manager</h1>
+    <p class="lead mt-3">Effortlessly manage patients, appointments and medical records in one place.</p>
+
+    <hr class="my-4" />
+
+    <div class="d-flex justify-content-center gap-3 mt-4">
+        <a asp-controller="Patients" asp-action="Index" class="btn btn-primary btn-lg">
+            View Patients
+        </a>
+        <a asp-controller="Patients" asp-action="Create" class="btn btn-outline-success btn-lg">
+            Add New Patient
+        </a>
+    </div>
+
+    <div class="mt-5">
+        <img src="https://cdn-icons-png.flaticon.com/512/3774/3774299.png" alt="Healthcare Icon" width="150" />
+    </div>
+</div>

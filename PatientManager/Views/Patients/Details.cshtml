@@ -1,0 +1,136 @@
+﻿@model PatientManager.Models.Patient
+
+@{
+    ViewData["Title"] = "Patient Details";
+}
+
+<h1>Patient Details</h1>
+<hr />
+<dl class="row">
+    <dt class="col-sm-3">Name</dt>
+    <dd class="col-sm-9">@Model.Name</dd>
+
+    <dt class="col-sm-3">Last Name</dt>
+    <dd class="col-sm-9">@Model.LastName</dd>
+
+    <dt class="col-sm-3">OIB</dt>
+    <dd class="col-sm-9">@Model.Oib</dd>
+
+    <dt class="col-sm-3">Birth Date</dt>
+    <dd class="col-sm-9">@Model.BirthDate.ToString("dd.MM.yyyy")</dd>
+
+    <dt class="col-sm-3">Gender</dt>
+    <dd class="col-sm-9">@Model.Spol</dd>
+</dl>
+
+<hr />
+<h3>Examinations</h3>
+@if (Model.Examinations.Any())
+{
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>Date</th>
+                <th>Type</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var exam in Model.Examinations)
+            {
+                <tr>
+                    <td>@exam.Date.ToString("dd.MM.yyyy")</td>
+                    <td>@exam.Type?.Name</td>
+                    <td>
+                        <a asp-controller="Examinations" asp-action="Details" asp-route-id="@exam.Id" class="btn btn-sm btn-outline-secondary">Details</a>
+                        <a asp-controller="Examinations" asp-action="Edit" asp-route-id="@exam.Id" class="btn btn-sm btn-outline-primary ms-2">Edit</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p><em>No examinations found.</em></p>
+}
+
+
+<hr />
+<h3>Medical History</h3>
+
+@if (Model.Medicalhistories.Any())
+{
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>Disease</th>
+                <th>Start</th>
+                <th>End</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var history in Model.Medicalhistories)
+            {
+                <tr>
+                    <td>@history.Disease.Name</td>
+                    <td>@history.DiseaseStart.ToString("dd.MM.yyyy")</td>
+                    <td>@(history.DiseaseEnd?.ToString("dd.MM.yyyy") ?? "-")</td>
+                    <td>
+                        <a asp-controller="MedicalHistory" asp-action="Details" asp-route-id="@history.Id" class="btn btn-sm btn-outline-secondary">Details</a>
+                        <a asp-controller="MedicalHistory" asp-action="Edit" asp-route-id="@history.Id" class="btn btn-sm btn-outline-primary ms-2">Edit</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p><em>No medical history records.</em></p>
+}
+<a asp-controller="MedicalHistory" asp-action="Create" asp-route-patientId="@Model.Id" class="btn btn-sm btn-success mt-2">Add Medical History</a>
+<br />
+
+
+<hr />
+<h3>Prescriptions</h3>
+
+@if (Model.Prescriptions.Any())
+{
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>Medication</th>
+                <th>Date</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var prescription in Model.Prescriptions)
+            {
+                <tr>
+                    <td>@prescription.Medication?.Name</td>
+                    <td>@prescription.PrescriptionDate.ToString("dd.MM.yyyy")</td>
+                    <td>
+                        <a asp-controller="Prescriptions" asp-action="Details" asp-route-id="@prescription.Id" class="btn btn-sm btn-outline-secondary">Details</a>
+                        <a asp-controller="Prescriptions" asp-action="Edit" asp-route-id="@prescription.Id" class="btn btn-sm btn-outline-primary ms-2">Edit</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p><em>No prescriptions found.</em></p>
+}
+
+<a asp-controller="Prescriptions" asp-action="Create" asp-route-patientId="@Model.Id" class="btn btn-sm btn-success mt-2">Add Prescription</a>
+<br />
+
+<hr />
+
+<a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-warning">Edit</a>
+<a asp-action="Index" class="btn btn-secondary">Back to List</a>
