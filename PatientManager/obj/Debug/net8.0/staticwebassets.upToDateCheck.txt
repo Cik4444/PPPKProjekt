@@ -58,3 +58,17 @@ wwwroot\lib\jquery-validation\LICENSE.md
 wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
 wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
 wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+wwwroot\logs\error_20250409_231704.txt
+wwwroot\logs\error_20250520_004011.txt
+wwwroot\logs\error_20250520_004111.txt
+wwwroot\logs\error_20250520_004620.txt
+wwwroot\logs\error_20250520_004652.txt
+wwwroot\logs\error_20250520_005305.txt
+wwwroot\logs\error_20250520_093953.txt
+wwwroot\uploads\02e78ad2-11a6-4923-8287-13c6db7d1a64.pdf
+wwwroot\uploads\14bd25d0-0087-469f-850d-c06373900dd5.ipynb
+wwwroot\uploads\4442f7ae-cfa1-4bc7-bb07-fc643eab99cd.ipynb
+wwwroot\uploads\a960848f-fc29-4655-80b9-2f367285a23f.pdf
+wwwroot\uploads\afadd647-97f3-4d25-890d-b038ef6c97d9.pdf
+wwwroot\uploads\bb08a1ea-d020-4f0b-b9f9-0169c323eb3d.docx
+wwwroot\uploads\df7fce72-c269-4032-9734-93c744fb5352.pdf

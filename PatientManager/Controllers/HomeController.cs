@@ -24,15 +24,11 @@ namespace PatientManager.Controllers
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
-        public IActionResult Error()
+        public IActionResult Error(string? message = null)
         {
+            ViewBag.Message = message ?? "Unexpected error occurred.";
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
 
-        public IActionResult Error(string message = "Unexpected error occurred.")
-        {
-            ViewBag.Message = message;
-            return View();
-        }
     }
 }

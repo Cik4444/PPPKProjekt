@@ -12,4 +12,6 @@ public partial class Medicalfile
     public string FilePath { get; set; } = null!;
 
     public virtual Examination Examination { get; set; } = null!;
+
+    public int medicalNumber { get; set; }
 }

@@ -1,8 +1,10 @@
-﻿@{
-    ViewData["Title"] = "Error";
-    var message = Context.Request.Query["message"].ToString();
-}
+﻿@model ErrorViewModel
 
-<h1 class="text-danger">An error occurred</h1>
-<p class="text-warning">@message</p>
-<p>If this continues to happen, please contact your administrator.</p>
+<h1 class="text-danger">Error</h1>
+
+<p>@ViewBag.Message</p>
+
+@if (!string.IsNullOrEmpty(Model?.RequestId))
+{
+    <p><strong>Request ID:</strong> @Model.RequestId</p>
+}

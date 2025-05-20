@@ -245,6 +245,62 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
+      "Id": "C:\\Users\\Cik3000\\Desktop\\TinCikPPPK1\\PatientManager\\wwwroot\\logs\\error_20250409_231704.txt",
+      "PackagePath": "staticwebassets\\logs\\error_20250409_231704.txt"
+    },
+    {
+      "Id": "C:\\Users\\Cik3000\\Desktop\\TinCikPPPK1\\PatientManager\\wwwroot\\logs\\error_20250520_004011.txt",
+      "PackagePath": "staticwebassets\\logs\\error_20250520_004011.txt"
+    },
+    {
+      "Id": "C:\\Users\\Cik3000\\Desktop\\TinCikPPPK1\\PatientManager\\wwwroot\\logs\\error_20250520_004111.txt",
+      "PackagePath": "staticwebassets\\logs\\error_20250520_004111.txt"
+    },
+    {
+      "Id": "C:\\Users\\Cik3000\\Desktop\\TinCikPPPK1\\PatientManager\\wwwroot\\logs\\error_20250520_004620.txt",
+      "PackagePath": "staticwebassets\\logs\\error_20250520_004620.txt"
+    },
+    {
+      "Id": "C:\\Users\\Cik3000\\Desktop\\TinCikPPPK1\\PatientManager\\wwwroot\\logs\\error_20250520_004652.txt",
+      "PackagePath": "staticwebassets\\logs\\error_20250520_004652.txt"
+    },
+    {
+      "Id": "C:\\Users\\Cik3000\\Desktop\\TinCikPPPK1\\PatientManager\\wwwroot\\logs\\error_20250520_005305.txt",
+      "PackagePath": "staticwebassets\\logs\\error_20250520_005305.txt"
+    },
+    {
+      "Id": "C:\\Users\\Cik3000\\Desktop\\TinCikPPPK1\\PatientManager\\wwwroot\\logs\\error_20250520_093953.txt",
+      "PackagePath": "staticwebassets\\logs\\error_20250520_093953.txt"
+    },
+    {
+      "Id": "C:\\Users\\Cik3000\\Desktop\\TinCikPPPK1\\PatientManager\\wwwroot\\uploads\\02e78ad2-11a6-4923-8287-13c6db7d1a64.pdf",
+      "PackagePath": "staticwebassets\\uploads\\02e78ad2-11a6-4923-8287-13c6db7d1a64.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Cik3000\\Desktop\\TinCikPPPK1\\PatientManager\\wwwroot\\uploads\\14bd25d0-0087-469f-850d-c06373900dd5.ipynb",
+      "PackagePath": "staticwebassets\\uploads\\14bd25d0-0087-469f-850d-c06373900dd5.ipynb"
+    },
+    {
+      "Id": "C:\\Users\\Cik3000\\Desktop\\TinCikPPPK1\\PatientManager\\wwwroot\\uploads\\4442f7ae-cfa1-4bc7-bb07-fc643eab99cd.ipynb",
+      "PackagePath": "staticwebassets\\uploads\\4442f7ae-cfa1-4bc7-bb07-fc643eab99cd.ipynb"
+    },
+    {
+      "Id": "C:\\Users\\Cik3000\\Desktop\\TinCikPPPK1\\PatientManager\\wwwroot\\uploads\\a960848f-fc29-4655-80b9-2f367285a23f.pdf",
+      "PackagePath": "staticwebassets\\uploads\\a960848f-fc29-4655-80b9-2f367285a23f.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Cik3000\\Desktop\\TinCikPPPK1\\PatientManager\\wwwroot\\uploads\\afadd647-97f3-4d25-890d-b038ef6c97d9.pdf",
+      "PackagePath": "staticwebassets\\uploads\\afadd647-97f3-4d25-890d-b038ef6c97d9.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Cik3000\\Desktop\\TinCikPPPK1\\PatientManager\\wwwroot\\uploads\\bb08a1ea-d020-4f0b-b9f9-0169c323eb3d.docx",
+      "PackagePath": "staticwebassets\\uploads\\bb08a1ea-d020-4f0b-b9f9-0169c323eb3d.docx"
+    },
+    {
+      "Id": "C:\\Users\\Cik3000\\Desktop\\TinCikPPPK1\\PatientManager\\wwwroot\\uploads\\df7fce72-c269-4032-9734-93c744fb5352.pdf",
+      "PackagePath": "staticwebassets\\uploads\\df7fce72-c269-4032-9734-93c744fb5352.pdf"
+    },
+    {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.PatientManager.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },

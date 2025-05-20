@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "c/BbwjdnqsmQp1mchsOSlLa+zw2O0xprxxLNqb7BFTE=",
+  "Hash": "jq9Jp8sqx2duxG9kxHJILdyU+7cAXBasI9uavCARwuE=",
   "Source": "PatientManager",
   "BasePath": "_content/PatientManager",
   "Mode": "Default",
@@ -1317,6 +1317,300 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Users\\Cik3000\\Desktop\\TinCikPPPK1\\PatientManager\\wwwroot\\logs\\error_20250409_231704.txt",
+      "SourceId": "PatientManager",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cik3000\\Desktop\\TinCikPPPK1\\PatientManager\\wwwroot\\",
+      "BasePath": "_content/PatientManager",
+      "RelativePath": "logs/error_20250409_231704#[.{fingerprint}]?.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "r4pa0pplja",
+      "Integrity": "u3EwCafJrsFsXmE4SyAA9uSczwyjWMHXcqJecSuudeE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\logs\\error_20250409_231704.txt"
+    },
+    {
+      "Identity": "C:\\Users\\Cik3000\\Desktop\\TinCikPPPK1\\PatientManager\\wwwroot\\logs\\error_20250520_004011.txt",
+      "SourceId": "PatientManager",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cik3000\\Desktop\\TinCikPPPK1\\PatientManager\\wwwroot\\",
+      "BasePath": "_content/PatientManager",
+      "RelativePath": "logs/error_20250520_004011#[.{fingerprint}]?.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3wf2fxzt3x",
+      "Integrity": "DUBb1Bi90l6aBp3Wmmzvf6TDhXcFvw5HsfrA+8XKNmU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\logs\\error_20250520_004011.txt"
+    },
+    {
+      "Identity": "C:\\Users\\Cik3000\\Desktop\\TinCikPPPK1\\PatientManager\\wwwroot\\logs\\error_20250520_004111.txt",
+      "SourceId": "PatientManager",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cik3000\\Desktop\\TinCikPPPK1\\PatientManager\\wwwroot\\",
+      "BasePath": "_content/PatientManager",
+      "RelativePath": "logs/error_20250520_004111#[.{fingerprint}]?.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "oa47k792ox",
+      "Integrity": "gM4/bk0m2DiR2e8PKSSyDF1lEGisRRA+cnls85/89bI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\logs\\error_20250520_004111.txt"
+    },
+    {
+      "Identity": "C:\\Users\\Cik3000\\Desktop\\TinCikPPPK1\\PatientManager\\wwwroot\\logs\\error_20250520_004620.txt",
+      "SourceId": "PatientManager",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cik3000\\Desktop\\TinCikPPPK1\\PatientManager\\wwwroot\\",
+      "BasePath": "_content/PatientManager",
+      "RelativePath": "logs/error_20250520_004620#[.{fingerprint}]?.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "v1h1zdr4x6",
+      "Integrity": "bex6mXSLViWmTCK2709HaJe7bbUzVyJHN/06prlsYgs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\logs\\error_20250520_004620.txt"
+    },
+    {
+      "Identity": "C:\\Users\\Cik3000\\Desktop\\TinCikPPPK1\\PatientManager\\wwwroot\\logs\\error_20250520_004652.txt",
+      "SourceId": "PatientManager",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cik3000\\Desktop\\TinCikPPPK1\\PatientManager\\wwwroot\\",
+      "BasePath": "_content/PatientManager",
+      "RelativePath": "logs/error_20250520_004652#[.{fingerprint}]?.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ij78hhrr1n",
+      "Integrity": "Lt1yccjObiQ6Js5XKTCuxbJhX8e7E17fbJSZHfCVpl4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\logs\\error_20250520_004652.txt"
+    },
+    {
+      "Identity": "C:\\Users\\Cik3000\\Desktop\\TinCikPPPK1\\PatientManager\\wwwroot\\logs\\error_20250520_005305.txt",
+      "SourceId": "PatientManager",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cik3000\\Desktop\\TinCikPPPK1\\PatientManager\\wwwroot\\",
+      "BasePath": "_content/PatientManager",
+      "RelativePath": "logs/error_20250520_005305#[.{fingerprint}]?.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gcs09eacnx",
+      "Integrity": "gC8nPA6sVs+6fyKqWji02cbfmWmmHHrxRszDyrDgjFM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\logs\\error_20250520_005305.txt"
+    },
+    {
+      "Identity": "C:\\Users\\Cik3000\\Desktop\\TinCikPPPK1\\PatientManager\\wwwroot\\logs\\error_20250520_093953.txt",
+      "SourceId": "PatientManager",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cik3000\\Desktop\\TinCikPPPK1\\PatientManager\\wwwroot\\",
+      "BasePath": "_content/PatientManager",
+      "RelativePath": "logs/error_20250520_093953#[.{fingerprint}]?.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ynpzp1dwkh",
+      "Integrity": "rpkoOyeT6OZMpc9Jt89Bi0B0Zh5CPNdyoZfKv+fhx70=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\logs\\error_20250520_093953.txt"
+    },
+    {
+      "Identity": "C:\\Users\\Cik3000\\Desktop\\TinCikPPPK1\\PatientManager\\wwwroot\\uploads\\02e78ad2-11a6-4923-8287-13c6db7d1a64.pdf",
+      "SourceId": "PatientManager",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cik3000\\Desktop\\TinCikPPPK1\\PatientManager\\wwwroot\\",
+      "BasePath": "_content/PatientManager",
+      "RelativePath": "uploads/02e78ad2-11a6-4923-8287-13c6db7d1a64#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "h53rxplv70",
+      "Integrity": "tR3Y/MvFFcxP0dCXKq8htkx1bs9oPrxb1cbWWpy9trk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\02e78ad2-11a6-4923-8287-13c6db7d1a64.pdf"
+    },
+    {
+      "Identity": "C:\\Users\\Cik3000\\Desktop\\TinCikPPPK1\\PatientManager\\wwwroot\\uploads\\14bd25d0-0087-469f-850d-c06373900dd5.ipynb",
+      "SourceId": "PatientManager",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cik3000\\Desktop\\TinCikPPPK1\\PatientManager\\wwwroot\\",
+      "BasePath": "_content/PatientManager",
+      "RelativePath": "uploads/14bd25d0-0087-469f-850d-c06373900dd5#[.{fingerprint}]?.ipynb",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ujqsn87vsc",
+      "Integrity": "ajx2dxluM9dILUhMWwXnO8tNK1fClQXsMQbXcrHiBwU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\14bd25d0-0087-469f-850d-c06373900dd5.ipynb"
+    },
+    {
+      "Identity": "C:\\Users\\Cik3000\\Desktop\\TinCikPPPK1\\PatientManager\\wwwroot\\uploads\\4442f7ae-cfa1-4bc7-bb07-fc643eab99cd.ipynb",
+      "SourceId": "PatientManager",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cik3000\\Desktop\\TinCikPPPK1\\PatientManager\\wwwroot\\",
+      "BasePath": "_content/PatientManager",
+      "RelativePath": "uploads/4442f7ae-cfa1-4bc7-bb07-fc643eab99cd#[.{fingerprint}]?.ipynb",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ujqsn87vsc",
+      "Integrity": "ajx2dxluM9dILUhMWwXnO8tNK1fClQXsMQbXcrHiBwU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\4442f7ae-cfa1-4bc7-bb07-fc643eab99cd.ipynb"
+    },
+    {
+      "Identity": "C:\\Users\\Cik3000\\Desktop\\TinCikPPPK1\\PatientManager\\wwwroot\\uploads\\a960848f-fc29-4655-80b9-2f367285a23f.pdf",
+      "SourceId": "PatientManager",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cik3000\\Desktop\\TinCikPPPK1\\PatientManager\\wwwroot\\",
+      "BasePath": "_content/PatientManager",
+      "RelativePath": "uploads/a960848f-fc29-4655-80b9-2f367285a23f#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "h53rxplv70",
+      "Integrity": "tR3Y/MvFFcxP0dCXKq8htkx1bs9oPrxb1cbWWpy9trk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\a960848f-fc29-4655-80b9-2f367285a23f.pdf"
+    },
+    {
+      "Identity": "C:\\Users\\Cik3000\\Desktop\\TinCikPPPK1\\PatientManager\\wwwroot\\uploads\\afadd647-97f3-4d25-890d-b038ef6c97d9.pdf",
+      "SourceId": "PatientManager",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cik3000\\Desktop\\TinCikPPPK1\\PatientManager\\wwwroot\\",
+      "BasePath": "_content/PatientManager",
+      "RelativePath": "uploads/afadd647-97f3-4d25-890d-b038ef6c97d9#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "t7lyahq9id",
+      "Integrity": "F1K0dgOQuUecc4d7L+mVGvqD3j9h9LiupQ8KBkZencU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\afadd647-97f3-4d25-890d-b038ef6c97d9.pdf"
+    },
+    {
+      "Identity": "C:\\Users\\Cik3000\\Desktop\\TinCikPPPK1\\PatientManager\\wwwroot\\uploads\\bb08a1ea-d020-4f0b-b9f9-0169c323eb3d.docx",
+      "SourceId": "PatientManager",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cik3000\\Desktop\\TinCikPPPK1\\PatientManager\\wwwroot\\",
+      "BasePath": "_content/PatientManager",
+      "RelativePath": "uploads/bb08a1ea-d020-4f0b-b9f9-0169c323eb3d#[.{fingerprint}]?.docx",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fqeoatygop",
+      "Integrity": "l16WVrKFxKQ8nq4pGUntql0ySQt3xSlqEe60T8Yf+A4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\bb08a1ea-d020-4f0b-b9f9-0169c323eb3d.docx"
+    },
+    {
+      "Identity": "C:\\Users\\Cik3000\\Desktop\\TinCikPPPK1\\PatientManager\\wwwroot\\uploads\\df7fce72-c269-4032-9734-93c744fb5352.pdf",
+      "SourceId": "PatientManager",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cik3000\\Desktop\\TinCikPPPK1\\PatientManager\\wwwroot\\",
+      "BasePath": "_content/PatientManager",
+      "RelativePath": "uploads/df7fce72-c269-4032-9734-93c744fb5352#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "883jsjcmzr",
+      "Integrity": "6GAdtSwxOOf+bM/CHgbRSdvdoImSBHljn0ntOCy9ILA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\df7fce72-c269-4032-9734-93c744fb5352.pdf"
     }
   ],
   "Endpoints": [
@@ -6241,6 +6535,580 @@
       ]
     },
     {
+      "Route": "logs/error_20250409_231704.r4pa0pplja.txt",
+      "AssetFile": "C:\\Users\\Cik3000\\Desktop\\TinCikPPPK1\\PatientManager\\wwwroot\\logs\\error_20250409_231704.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1966"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"u3EwCafJrsFsXmE4SyAA9uSczwyjWMHXcqJecSuudeE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Apr 2025 21:17:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "r4pa0pplja"
+        },
+        {
+          "Name": "label",
+          "Value": "logs/error_20250409_231704.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-u3EwCafJrsFsXmE4SyAA9uSczwyjWMHXcqJecSuudeE="
+        }
+      ]
+    },
+    {
+      "Route": "logs/error_20250409_231704.txt",
+      "AssetFile": "C:\\Users\\Cik3000\\Desktop\\TinCikPPPK1\\PatientManager\\wwwroot\\logs\\error_20250409_231704.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1966"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"u3EwCafJrsFsXmE4SyAA9uSczwyjWMHXcqJecSuudeE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Apr 2025 21:17:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-u3EwCafJrsFsXmE4SyAA9uSczwyjWMHXcqJecSuudeE="
+        }
+      ]
+    },
+    {
+      "Route": "logs/error_20250520_004011.3wf2fxzt3x.txt",
+      "AssetFile": "C:\\Users\\Cik3000\\Desktop\\TinCikPPPK1\\PatientManager\\wwwroot\\logs\\error_20250520_004011.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1966"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DUBb1Bi90l6aBp3Wmmzvf6TDhXcFvw5HsfrA+8XKNmU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 22:40:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3wf2fxzt3x"
+        },
+        {
+          "Name": "label",
+          "Value": "logs/error_20250520_004011.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DUBb1Bi90l6aBp3Wmmzvf6TDhXcFvw5HsfrA+8XKNmU="
+        }
+      ]
+    },
+    {
+      "Route": "logs/error_20250520_004011.txt",
+      "AssetFile": "C:\\Users\\Cik3000\\Desktop\\TinCikPPPK1\\PatientManager\\wwwroot\\logs\\error_20250520_004011.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1966"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DUBb1Bi90l6aBp3Wmmzvf6TDhXcFvw5HsfrA+8XKNmU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 22:40:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DUBb1Bi90l6aBp3Wmmzvf6TDhXcFvw5HsfrA+8XKNmU="
+        }
+      ]
+    },
+    {
+      "Route": "logs/error_20250520_004111.oa47k792ox.txt",
+      "AssetFile": "C:\\Users\\Cik3000\\Desktop\\TinCikPPPK1\\PatientManager\\wwwroot\\logs\\error_20250520_004111.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1966"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gM4/bk0m2DiR2e8PKSSyDF1lEGisRRA+cnls85/89bI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 22:41:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "oa47k792ox"
+        },
+        {
+          "Name": "label",
+          "Value": "logs/error_20250520_004111.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gM4/bk0m2DiR2e8PKSSyDF1lEGisRRA+cnls85/89bI="
+        }
+      ]
+    },
+    {
+      "Route": "logs/error_20250520_004111.txt",
+      "AssetFile": "C:\\Users\\Cik3000\\Desktop\\TinCikPPPK1\\PatientManager\\wwwroot\\logs\\error_20250520_004111.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1966"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gM4/bk0m2DiR2e8PKSSyDF1lEGisRRA+cnls85/89bI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 22:41:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gM4/bk0m2DiR2e8PKSSyDF1lEGisRRA+cnls85/89bI="
+        }
+      ]
+    },
+    {
+      "Route": "logs/error_20250520_004620.txt",
+      "AssetFile": "C:\\Users\\Cik3000\\Desktop\\TinCikPPPK1\\PatientManager\\wwwroot\\logs\\error_20250520_004620.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1966"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bex6mXSLViWmTCK2709HaJe7bbUzVyJHN/06prlsYgs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 22:46:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bex6mXSLViWmTCK2709HaJe7bbUzVyJHN/06prlsYgs="
+        }
+      ]
+    },
+    {
+      "Route": "logs/error_20250520_004620.v1h1zdr4x6.txt",
+      "AssetFile": "C:\\Users\\Cik3000\\Desktop\\TinCikPPPK1\\PatientManager\\wwwroot\\logs\\error_20250520_004620.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1966"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bex6mXSLViWmTCK2709HaJe7bbUzVyJHN/06prlsYgs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 22:46:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v1h1zdr4x6"
+        },
+        {
+          "Name": "label",
+          "Value": "logs/error_20250520_004620.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bex6mXSLViWmTCK2709HaJe7bbUzVyJHN/06prlsYgs="
+        }
+      ]
+    },
+    {
+      "Route": "logs/error_20250520_004652.ij78hhrr1n.txt",
+      "AssetFile": "C:\\Users\\Cik3000\\Desktop\\TinCikPPPK1\\PatientManager\\wwwroot\\logs\\error_20250520_004652.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1966"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Lt1yccjObiQ6Js5XKTCuxbJhX8e7E17fbJSZHfCVpl4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 22:46:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ij78hhrr1n"
+        },
+        {
+          "Name": "label",
+          "Value": "logs/error_20250520_004652.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Lt1yccjObiQ6Js5XKTCuxbJhX8e7E17fbJSZHfCVpl4="
+        }
+      ]
+    },
+    {
+      "Route": "logs/error_20250520_004652.txt",
+      "AssetFile": "C:\\Users\\Cik3000\\Desktop\\TinCikPPPK1\\PatientManager\\wwwroot\\logs\\error_20250520_004652.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1966"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Lt1yccjObiQ6Js5XKTCuxbJhX8e7E17fbJSZHfCVpl4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 22:46:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Lt1yccjObiQ6Js5XKTCuxbJhX8e7E17fbJSZHfCVpl4="
+        }
+      ]
+    },
+    {
+      "Route": "logs/error_20250520_005305.gcs09eacnx.txt",
+      "AssetFile": "C:\\Users\\Cik3000\\Desktop\\TinCikPPPK1\\PatientManager\\wwwroot\\logs\\error_20250520_005305.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1966"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gC8nPA6sVs+6fyKqWji02cbfmWmmHHrxRszDyrDgjFM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 22:53:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gcs09eacnx"
+        },
+        {
+          "Name": "label",
+          "Value": "logs/error_20250520_005305.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gC8nPA6sVs+6fyKqWji02cbfmWmmHHrxRszDyrDgjFM="
+        }
+      ]
+    },
+    {
+      "Route": "logs/error_20250520_005305.txt",
+      "AssetFile": "C:\\Users\\Cik3000\\Desktop\\TinCikPPPK1\\PatientManager\\wwwroot\\logs\\error_20250520_005305.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1966"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gC8nPA6sVs+6fyKqWji02cbfmWmmHHrxRszDyrDgjFM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 22:53:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gC8nPA6sVs+6fyKqWji02cbfmWmmHHrxRszDyrDgjFM="
+        }
+      ]
+    },
+    {
+      "Route": "logs/error_20250520_093953.txt",
+      "AssetFile": "C:\\Users\\Cik3000\\Desktop\\TinCikPPPK1\\PatientManager\\wwwroot\\logs\\error_20250520_093953.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1966"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rpkoOyeT6OZMpc9Jt89Bi0B0Zh5CPNdyoZfKv+fhx70=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 07:39:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rpkoOyeT6OZMpc9Jt89Bi0B0Zh5CPNdyoZfKv+fhx70="
+        }
+      ]
+    },
+    {
+      "Route": "logs/error_20250520_093953.ynpzp1dwkh.txt",
+      "AssetFile": "C:\\Users\\Cik3000\\Desktop\\TinCikPPPK1\\PatientManager\\wwwroot\\logs\\error_20250520_093953.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1966"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rpkoOyeT6OZMpc9Jt89Bi0B0Zh5CPNdyoZfKv+fhx70=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 07:39:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ynpzp1dwkh"
+        },
+        {
+          "Name": "label",
+          "Value": "logs/error_20250520_093953.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rpkoOyeT6OZMpc9Jt89Bi0B0Zh5CPNdyoZfKv+fhx70="
+        }
+      ]
+    },
+    {
       "Route": "PatientManager.bundle.scp.css",
       "AssetFile": "C:\\Users\\Cik3000\\Desktop\\TinCikPPPK1\\PatientManager\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\PatientManager.bundle.scp.css",
       "Selectors": [],
@@ -6401,6 +7269,580 @@
         {
           "Name": "integrity",
           "Value": "sha256-SJBMz6Ha6BNvaX5JGyHGKgViA8ysjc7XbGJlWa/d8hA="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/02e78ad2-11a6-4923-8287-13c6db7d1a64.h53rxplv70.pdf",
+      "AssetFile": "C:\\Users\\Cik3000\\Desktop\\TinCikPPPK1\\PatientManager\\wwwroot\\uploads\\02e78ad2-11a6-4923-8287-13c6db7d1a64.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22052"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tR3Y/MvFFcxP0dCXKq8htkx1bs9oPrxb1cbWWpy9trk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 22:46:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "h53rxplv70"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/02e78ad2-11a6-4923-8287-13c6db7d1a64.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tR3Y/MvFFcxP0dCXKq8htkx1bs9oPrxb1cbWWpy9trk="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/02e78ad2-11a6-4923-8287-13c6db7d1a64.pdf",
+      "AssetFile": "C:\\Users\\Cik3000\\Desktop\\TinCikPPPK1\\PatientManager\\wwwroot\\uploads\\02e78ad2-11a6-4923-8287-13c6db7d1a64.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22052"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tR3Y/MvFFcxP0dCXKq8htkx1bs9oPrxb1cbWWpy9trk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 22:46:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tR3Y/MvFFcxP0dCXKq8htkx1bs9oPrxb1cbWWpy9trk="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/14bd25d0-0087-469f-850d-c06373900dd5.ipynb",
+      "AssetFile": "C:\\Users\\Cik3000\\Desktop\\TinCikPPPK1\\PatientManager\\wwwroot\\uploads\\14bd25d0-0087-469f-850d-c06373900dd5.ipynb",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "533022"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ajx2dxluM9dILUhMWwXnO8tNK1fClQXsMQbXcrHiBwU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 22:40:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ajx2dxluM9dILUhMWwXnO8tNK1fClQXsMQbXcrHiBwU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/14bd25d0-0087-469f-850d-c06373900dd5.ujqsn87vsc.ipynb",
+      "AssetFile": "C:\\Users\\Cik3000\\Desktop\\TinCikPPPK1\\PatientManager\\wwwroot\\uploads\\14bd25d0-0087-469f-850d-c06373900dd5.ipynb",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "533022"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ajx2dxluM9dILUhMWwXnO8tNK1fClQXsMQbXcrHiBwU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 22:40:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ujqsn87vsc"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/14bd25d0-0087-469f-850d-c06373900dd5.ipynb"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ajx2dxluM9dILUhMWwXnO8tNK1fClQXsMQbXcrHiBwU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/4442f7ae-cfa1-4bc7-bb07-fc643eab99cd.ipynb",
+      "AssetFile": "C:\\Users\\Cik3000\\Desktop\\TinCikPPPK1\\PatientManager\\wwwroot\\uploads\\4442f7ae-cfa1-4bc7-bb07-fc643eab99cd.ipynb",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "533022"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ajx2dxluM9dILUhMWwXnO8tNK1fClQXsMQbXcrHiBwU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 22:41:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ajx2dxluM9dILUhMWwXnO8tNK1fClQXsMQbXcrHiBwU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/4442f7ae-cfa1-4bc7-bb07-fc643eab99cd.ujqsn87vsc.ipynb",
+      "AssetFile": "C:\\Users\\Cik3000\\Desktop\\TinCikPPPK1\\PatientManager\\wwwroot\\uploads\\4442f7ae-cfa1-4bc7-bb07-fc643eab99cd.ipynb",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "533022"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ajx2dxluM9dILUhMWwXnO8tNK1fClQXsMQbXcrHiBwU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 22:41:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ujqsn87vsc"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/4442f7ae-cfa1-4bc7-bb07-fc643eab99cd.ipynb"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ajx2dxluM9dILUhMWwXnO8tNK1fClQXsMQbXcrHiBwU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/a960848f-fc29-4655-80b9-2f367285a23f.h53rxplv70.pdf",
+      "AssetFile": "C:\\Users\\Cik3000\\Desktop\\TinCikPPPK1\\PatientManager\\wwwroot\\uploads\\a960848f-fc29-4655-80b9-2f367285a23f.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22052"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tR3Y/MvFFcxP0dCXKq8htkx1bs9oPrxb1cbWWpy9trk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 22:46:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "h53rxplv70"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/a960848f-fc29-4655-80b9-2f367285a23f.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tR3Y/MvFFcxP0dCXKq8htkx1bs9oPrxb1cbWWpy9trk="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/a960848f-fc29-4655-80b9-2f367285a23f.pdf",
+      "AssetFile": "C:\\Users\\Cik3000\\Desktop\\TinCikPPPK1\\PatientManager\\wwwroot\\uploads\\a960848f-fc29-4655-80b9-2f367285a23f.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22052"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tR3Y/MvFFcxP0dCXKq8htkx1bs9oPrxb1cbWWpy9trk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 22:46:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tR3Y/MvFFcxP0dCXKq8htkx1bs9oPrxb1cbWWpy9trk="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/afadd647-97f3-4d25-890d-b038ef6c97d9.pdf",
+      "AssetFile": "C:\\Users\\Cik3000\\Desktop\\TinCikPPPK1\\PatientManager\\wwwroot\\uploads\\afadd647-97f3-4d25-890d-b038ef6c97d9.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "699506"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"F1K0dgOQuUecc4d7L+mVGvqD3j9h9LiupQ8KBkZencU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 07:39:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-F1K0dgOQuUecc4d7L+mVGvqD3j9h9LiupQ8KBkZencU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/afadd647-97f3-4d25-890d-b038ef6c97d9.t7lyahq9id.pdf",
+      "AssetFile": "C:\\Users\\Cik3000\\Desktop\\TinCikPPPK1\\PatientManager\\wwwroot\\uploads\\afadd647-97f3-4d25-890d-b038ef6c97d9.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "699506"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"F1K0dgOQuUecc4d7L+mVGvqD3j9h9LiupQ8KBkZencU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 07:39:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "t7lyahq9id"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/afadd647-97f3-4d25-890d-b038ef6c97d9.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-F1K0dgOQuUecc4d7L+mVGvqD3j9h9LiupQ8KBkZencU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/bb08a1ea-d020-4f0b-b9f9-0169c323eb3d.docx",
+      "AssetFile": "C:\\Users\\Cik3000\\Desktop\\TinCikPPPK1\\PatientManager\\wwwroot\\uploads\\bb08a1ea-d020-4f0b-b9f9-0169c323eb3d.docx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "28345"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"l16WVrKFxKQ8nq4pGUntql0ySQt3xSlqEe60T8Yf+A4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Apr 2025 21:17:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-l16WVrKFxKQ8nq4pGUntql0ySQt3xSlqEe60T8Yf+A4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/bb08a1ea-d020-4f0b-b9f9-0169c323eb3d.fqeoatygop.docx",
+      "AssetFile": "C:\\Users\\Cik3000\\Desktop\\TinCikPPPK1\\PatientManager\\wwwroot\\uploads\\bb08a1ea-d020-4f0b-b9f9-0169c323eb3d.docx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "28345"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"l16WVrKFxKQ8nq4pGUntql0ySQt3xSlqEe60T8Yf+A4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Apr 2025 21:17:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fqeoatygop"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/bb08a1ea-d020-4f0b-b9f9-0169c323eb3d.docx"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-l16WVrKFxKQ8nq4pGUntql0ySQt3xSlqEe60T8Yf+A4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/df7fce72-c269-4032-9734-93c744fb5352.883jsjcmzr.pdf",
+      "AssetFile": "C:\\Users\\Cik3000\\Desktop\\TinCikPPPK1\\PatientManager\\wwwroot\\uploads\\df7fce72-c269-4032-9734-93c744fb5352.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1207365"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6GAdtSwxOOf+bM/CHgbRSdvdoImSBHljn0ntOCy9ILA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 22:53:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "883jsjcmzr"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/df7fce72-c269-4032-9734-93c744fb5352.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6GAdtSwxOOf+bM/CHgbRSdvdoImSBHljn0ntOCy9ILA="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/df7fce72-c269-4032-9734-93c744fb5352.pdf",
+      "AssetFile": "C:\\Users\\Cik3000\\Desktop\\TinCikPPPK1\\PatientManager\\wwwroot\\uploads\\df7fce72-c269-4032-9734-93c744fb5352.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1207365"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6GAdtSwxOOf+bM/CHgbRSdvdoImSBHljn0ntOCy9ILA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 22:53:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6GAdtSwxOOf+bM/CHgbRSdvdoImSBHljn0ntOCy9ILA="
         }
       ]
     }

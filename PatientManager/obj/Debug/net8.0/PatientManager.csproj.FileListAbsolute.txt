@@ -135,4 +135,5 @@ C:\Users\Cik3000\Desktop\TinCikPPPK1\PatientManager\bin\Debug\net8.0\tr\Microsof
 C:\Users\Cik3000\Desktop\TinCikPPPK1\PatientManager\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 C:\Users\Cik3000\Desktop\TinCikPPPK1\PatientManager\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 C:\Users\Cik3000\Desktop\TinCikPPPK1\PatientManager\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Cik3000\Desktop\TinCikPPPK1\PatientManager\obj\Debug\net8.0\PatientManager.sourcelink.json
 C:\Users\Cik3000\Desktop\TinCikPPPK1\PatientManager\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
